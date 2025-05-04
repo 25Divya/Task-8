@@ -1,0 +1,7 @@
+### Sales Dashboard Insights
+
+1. The **West region** recorded the **highest sales volume** in Q3.
+2. **Technology** category led in both **sales and profit**, followed by Furniture.
+3. Sales saw a significant **peak in December 2022**, possibly due to year-end promotions.
+4. **Central region** consistently underperformed across all months.
+
